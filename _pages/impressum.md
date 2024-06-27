@@ -14,7 +14,7 @@ Naumburger Straße 7
 04229 Leipzig
 
 ## Kontakt 
-Telefon: +49 (0) 123 44 55 66
+Telefon: 0156 78529299
 
 E-Mail: info@fourframes.de
 
@@ -94,7 +94,7 @@ Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
 Marc Pelzl
 
-Telefon: 0000  
+Telefon: 0156 78529299  
 E-Mail: info@fourframes.de
 
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.) entscheidet.

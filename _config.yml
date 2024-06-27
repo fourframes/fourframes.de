@@ -115,12 +115,12 @@ author:
   name             : "Marc"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Derzeit tauche ich tief in die Welt der Cyber-Security ein und bilde mich kontinuierlich weiter. Begleite mich auf meiner spannenden Reise und entdecke wertvolle Einblicke und Ressourcen."
-  #location         : "Deutschland"
+  location         : "Leipzig"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:blog@fourframes.de"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

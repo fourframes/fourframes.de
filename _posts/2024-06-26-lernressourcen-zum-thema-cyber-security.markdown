@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "Lernressourcen zum Thema Cyber-Security: Die Top 5 Empfehlungen"
+title: "Lernressourcen zum Thema Cyber-Security: Meine Top 5 Empfehlungen"
 date:   2024-06-26 
 categories: lernen
 tags: video podcast lernen ressourcen
 ---
-Mit meinem wachsenden Interesse an Cyber-Security habe ich verschiedene Plattformen durchsucht, um mehr über dieses breite Feld zu lernen. Hier sind meine fünf Top-Empfehlungen für die besten Cyber-Security-Ressourcen. Hinweis: Fast alle Inhalte sind auf Englisch, aber ich fand sie dennoch gut verständlich.
+Mit meinem wachsenden Interesse an Cyber-Security habe ich verschiedene Plattformen durchsucht, um mehr über dieses breite Feld zu lernen. Hier sind meine fünf Top-Empfehlungen für die besten Cyber-Security-Ressourcen. Hinweis: Fast alle Inhalte sind auf Englisch.
 
 # John Hammond
 Der YouTuber [John Hammond][jh] bietet über 1500 Videos, die vielfältige Einblicke in die Welt der Cyber-Security geben. Von der Einrichtung und Absicherung eines Active Directorys (AD) bis hin zu Malware-Analysen und Tool-Präsentationen – hier findet man eine breite Palette an Themen. Besonders seine unterhaltsame und inspirierende Art macht es leicht, auch komplexe Themen schnell zu verstehen.

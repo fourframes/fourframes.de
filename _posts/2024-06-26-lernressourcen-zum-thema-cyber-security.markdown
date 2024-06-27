@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Lernressourcen zum Thema Cyber-Security: Meine Top 5 Empfehlungen"
+title: "Lernressourcen zum Einstieg in das Thema Cyber-Security: Meine Top 5 Empfehlungen"
 date:   2024-06-26 
 categories: lernen
 tags: video podcast lernen ressourcen

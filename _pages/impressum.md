@@ -16,7 +16,7 @@ Naumburger Straße 7
 ## Kontakt 
 Telefon: 0156 78529299
 
-E-Mail: info@fourframes.de
+E-Mail: <info@fourframes.de>
 
 Quelle: [eRecht24](https://www.e-recht24.de)
 
@@ -95,7 +95,7 @@ Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 Marc Pelzl
 
 Telefon: 0156 78529299  
-E-Mail: info@fourframes.de
+E-Mail: <info@fourframes.de>
 
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.) entscheidet.
 

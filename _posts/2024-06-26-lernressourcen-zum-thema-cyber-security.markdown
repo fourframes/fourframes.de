@@ -4,6 +4,11 @@ title: "Lernressourcen zum Einstieg in das Thema Cyber-Security: Meine Top 5 Emp
 date:   2024-06-26 
 categories: lernen
 tags: video podcast lernen ressourcen
+excerpt: "Meine fünf Top-Empfehlungen für die besten Cyber-Security-Ressourcen."
+header:
+  overlay_image: https://media.fourframes.de/blog/ressourcen/iewek-gnos-hhUx08PuYpc-unsplash.png
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption:  "Foto von [Iewek Gnos](https://unsplash.com/@imkirk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) auf [Unsplash](https://unsplash.com/photos/macbook-pro-on-white-wooden-desk-hhUx08PuYpc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)"
 ---
 Mit meinem wachsenden Interesse an Cyber-Security habe ich verschiedene Plattformen durchsucht, um mehr über dieses breite Feld zu lernen. Hier sind meine fünf Top-Empfehlungen für die besten Cyber-Security-Ressourcen. Hinweis: Fast alle Inhalte sind auf Englisch.
 

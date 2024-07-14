@@ -19,7 +19,7 @@ Die CompTIA Security+ Zertifizierung bietet mehrere Vorteile, die sie besonders 
 # Mein Lernweg zur Security+ Zertifizierung
 
 Für meine Vorbereitung nutzte ich einen [Udemy-Kurs][jd] und ein [begleitendes Buch][gcga]. Zusätzlich gibt es zahlreiche kostenlose Ressourcen wie die Videos von [Professor Messer][messer], die sehr hilfreich sind. Es gibt genügend Möglichkeiten, je nach Lernstil das passende Medium zu wählen und sich in die Themen zu vertiefen.
-Die CompTIA Security+ Zertifizierung ist zwei Jahre gültig, bevor sie erneuert werden muss. Dies sollte man im Hinterkopf behalten und den Lernplan entsprechend anpassen. Der Abschluss erfolgt durch einen eineinhalbstündigen Test, den man in Testzentren oder zu Hause absolvieren kann.
+Die Inhalte der CompTIA Security+ Zertifizierung werden alle zwei Jahre erneuert. Dies sollte man im Hinterkopf behalten und das Timing des Lernplans entsprechend anpassen. Der Abschluss erfolgt durch einen eineinhalbstündigen Test, den man in Testzentren oder zu Hause absolvieren kann.
 
 # Der Übergang von Theorie zur Praxis
 

@@ -4,6 +4,11 @@ title: "Mein Lernpfad im Bereich Cyber Security"
 date:   2024-07-14 
 categories: lernen
 tags: video podcast lernen ressourcen
+excerpt: "Meine Erfahrungen und Tipps für einen Einstieg in die Cyber Security."
+header:
+  overlay_image: https://media.fourframes.de/blog/lernpfad/inaki-del-olmo-NIJuEQw0RKg-unsplash.png
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption:  "Foto von [Iñaki del Olmo](https://unsplash.com/@inakihxz?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) auf [Unsplash](https://unsplash.com/photos/assorted-title-of-books-piled-in-the-shelves-NIJuEQw0RKg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)"
 ---
 In der Welt der Cyber Security gibt es eine überwältigende Fülle an Lernressourcen. Von Videokursen über Bücher bis hin zu praxisorientierten Labs – die Auswahl ist riesig. Doch wie gestaltet man seinen Lernpfad am besten? Hier teile ich meine Erfahrungen und Tipps für einen Einstieg in die Cyber Security.
 

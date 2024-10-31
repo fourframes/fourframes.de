@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "SOC Analyst Lernpfad auf TryHackMe: Ein Zwischenfazit"
-date:   2024-10-31 
+date:   2024-11-01 
 categories: lernen
 tags: lernen ressourcen
 excerpt: "25% des SOC Analyst Lernpfad sind abgeschlossen - Ein Zwischenfazit"

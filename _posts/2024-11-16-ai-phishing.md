@@ -53,7 +53,7 @@ Um das Tool zu testen, habe ich eine potenziell verdächtige E-Mail an das über
 [![Die ursprüngliche Mail die analysiert wurde](https://media.fourframes.de/blog/ai-phish/mail.png)](https://media.fourframes.de/blog/ai-phish/mail.png)
 
 **Ergebnis der AI:**  
-[![Die Einschätzung zum Phishing-Status von Perplexity](https://media.fourframes.de/blog/ai-phish/response2.png)](https://media.fourframes.de/blog/ai-phish/response.png)
+[![Die Einschätzung zum Phishing-Status von Perplexity](https://media.fourframes.de/blog/ai-phish/response2.png)](https://media.fourframes.de/blog/ai-phish/response2.png)
 
 ## Potenzielle Erweiterungen
 

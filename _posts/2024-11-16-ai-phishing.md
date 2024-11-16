@@ -10,15 +10,6 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption:  "Foto von [Stephen Phillips](https://unsplash.com/@hostreviews?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) auf [Unsplash](https://unsplash.com/photos/mail-icon-F8QgtxUc6-E?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)"
 ---
-      
->- [ ] Post ist terminiert (Datei + Metadata)
->- [ ] Bilder sind auf media.fourframes.de
->- [ ] Bilder sind richtig eingebunden und haben ALT Tags
->- [ ] Overlay Image ist hinterlegt
->- [ ] Overlay Image Link ist angepasst
->- [ ] Excerpt ist hinterlegt
->- [ ] Formulierung ist geprüft und optimiert
->- [ ] Proofreading
 
 In diesem Projektbericht teile ich meine Erfahrungen bei der Entwicklung eines Tools zur automatisierten Phishing-Analyse von E-Mails. Grundlage dafür ist die Nutzung der API der KI-gestützten Suchmaschine [Perplexity](https://www.perplexity.ai/), die präzise Antworten liefert, indem sie das Internet in Echtzeit durchsucht und ihre Quellen transparent darstellt.
 

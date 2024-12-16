@@ -6,7 +6,7 @@ categories: projekt
 tags: dashboard grafana cloudflare firewall
 excerpt: "Visualisierung von Cloudflare Firewall Events in einem Grafana Dashboard"
 header:
-  overlay_image: https://media.fourframes.de/blog/cf-dashboard/markus-winkler-IrRbSND5EUc-unsplash.jpg"
+  overlay_image: /assets/images/posts/cf-dashboard/markus-winkler-IrRbSND5EUc-unsplash.jpg"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption:  "Foto von [Markus Winkler](https://unsplash.com/@markuswinkler?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) auf [Unsplash](https://unsplash.com/photos/black-and-silver-laptop-computer-IrRbSND5EUc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)"
 ---
@@ -28,7 +28,7 @@ Obwohl Abfragen in einem Basis-Account von Cloudflare teilweise eingeschränkt s
 
 ## Das Ergebnis: Ein übersichtliches Dashboard für Cloudflare-Daten
 
-[![Dashboard zur Visualisierung von Cloudflare Firewall-Daten mit Grafana](https://media.fourframes.de/blog/cf-dashboard/Dashboard.png)](https://media.fourframes.de/blog/cf-dashboard/Dashboard.png)
+[![Dashboard zur Visualisierung von Cloudflare Firewall-Daten mit Grafana](/assets/images/posts/cf-dashboard/Dashboard.png)](/assets/images/posts/cf-dashboard/Dashboard.png)
 
 Das resultierende Dashboard zeigt eine geografische Karte, auf der die Ursprünge der Sicherheitsereignisse visualisiert werden. Zu den weiteren Visualisierungen gehören:
 

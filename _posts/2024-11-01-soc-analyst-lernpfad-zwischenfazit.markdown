@@ -6,7 +6,7 @@ categories: lernen
 tags: lernen ressourcen
 excerpt: "25% des SOC Analyst Lernpfad sind abgeschlossen - Ein Zwischenfazit"
 header:
-  overlay_image: https://media.fourframes.de/blog/soc-lernpfad/ales-nesetril-Im7lZjxeLhg-unsplash.jpg
+  overlay_image: /assets/images/posts/soc-lernpfad/ales-nesetril-Im7lZjxeLhg-unsplash.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption:  "Foto von [Ales Nesetril](https://unsplash.com/@alesnesetril?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) auf [Unsplash](https://unsplash.com/photos/gray-and-black-laptop-computer-on-surface-Im7lZjxeLhg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)"
 ---

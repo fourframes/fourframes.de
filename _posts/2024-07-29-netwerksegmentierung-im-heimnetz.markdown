@@ -6,7 +6,7 @@ categories: projekt
 tags: projekt netzwerk segmentierung schwachstelle härtung
 excerpt: "Reduktion von potenziellen Sicherheitsschwachstellen durch Segmentierung im Heimnetz."
 header:
-  overlay_image: https://media.fourframes.de/blog/segmentierung/jordan-harrison-40XgDxBfYXM-unsplash.png
+  overlay_image: /assets/images/posts/segmentierung/jordan-harrison-40XgDxBfYXM-unsplash.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption:  "Foto von [Jordan Harrison](https://unsplash.com/@jouwdan?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) auf [Unsplash](https://unsplash.com/photos/blue-utp-cord-40XgDxBfYXM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)"
 ---

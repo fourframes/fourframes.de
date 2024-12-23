@@ -6,17 +6,17 @@ categories: projekt
 tags: dashboard grafana cloudflare firewall
 excerpt: "Anleitung zur Visualisierung von Cloudflare Firewall Events in einem Grafana Dashboard"
 header:
-  overlay_image: https://media.fourframes.de/blog/cf-dashboard-tut/choong-deng-xiang--WXQm_NTK0U-unsplash.jpg
+  overlay_image: /assets/images/posts/cf-dashboard-tut/choong-deng-xiang--WXQm_NTK0U-unsplash.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption:  "Foto von [Choong Deng Xiang](https://unsplash.com/@dengxiangs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) auf [Unsplash](https://unsplash.com/photos/graphical-user-interface--WXQm_NTK0U?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)"
 ---
-[![Einstellungen der API Tokens im Cloudflare Account Bereich](https://media.fourframes.de/blog/cf-dashboard-tut/Dashboard.png)](https://media.fourframes.de/blog/cf-dashboard-tut/Dashboard.png)
+[![Einstellungen der API Tokens im Cloudflare Account Bereich](/assets/images/posts/cf-dashboard-tut/Dashboard.png)](/assets/images/posts/cf-dashboard-tut/Dashboard.png)
 
 Im letzten Blogpost wurden die Erfahrungen bei der Erstellung eines Grafana-Dashboards zur Visualisierung von Cloudflare Firewall-Events geteilt. Der Artikel ist [hier](https://fourframes.de/projekt/cloudflare-firewall-grafana-dashboard/) zu finden. Dieser Beitrag erklärt Schritt für Schritt, wie das Dashboard selbst für einen Cloudflare-Account genutzt werden kann.
 
 ## API-Token für Cloudflare generieren
 
-[![Einstellungen der API Tokens im Cloudflare Account Bereich](https://media.fourframes.de/blog/cf-dashboard-tut/cf_token.png)](https://media.fourframes.de/blog/cf-dashboard-tut/cf_token.png)
+[![Einstellungen der API Tokens im Cloudflare Account Bereich](/assets/images/posts/cf-dashboard-tut/cf_token.png)](/assets/images/posts/cf-dashboard-tut/cf_token.png)
 
 Für die Nutzung des Dashboards wird ein API-Token benötigt, um Daten vom Cloudflare API-Endpunkt über die Infinity Data Source in Grafana abzurufen.
 
@@ -25,7 +25,7 @@ Für die Nutzung des Dashboards wird ein API-Token benötigt, um Daten vom Cloud
 
 ## Datenquelle in Grafana konfigurieren
 
-[![Konfiguration der Infinity Data Source in Grafana](https://media.fourframes.de/blog/cf-dashboard-tut/infinity.png)](https://media.fourframes.de/blog/cf-dashboard-tut/infinity.png)
+[![Konfiguration der Infinity Data Source in Grafana](/assets/images/posts/cf-dashboard-tut/infinity.png)](/assets/images/posts/cf-dashboard-tut/infinity.png)
 
 Nachdem die Infinity Data Source als neue Datenquelle in Grafana hinzugefügt wurde, ist folgende Konfiguration erforderlich:
 
@@ -35,7 +35,7 @@ Nachdem die Infinity Data Source als neue Datenquelle in Grafana hinzugefügt wu
 
 ## Dashboard konfigurieren und anpassen
 
-[![Einstellungen des Dashboards in Grafana](https://media.fourframes.de/blog/cf-dashboard-tut/dashboard_settings.png)](https://media.fourframes.de/blog/cf-dashboard-tut/dashboard_settings.png)
+[![Einstellungen des Dashboards in Grafana](/assets/images/posts/cf-dashboard-tut/dashboard_settings.png)](/assets/images/posts/cf-dashboard-tut/dashboard_settings.png)
 
 Zur Konfiguration des Dashboards sind folgende Schritte notwendig:
 

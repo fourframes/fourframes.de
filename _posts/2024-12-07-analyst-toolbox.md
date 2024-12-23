@@ -6,7 +6,7 @@ categories: lernen
 tags: ressourcen tools framework
 excerpt: "Meine Cybersecurity Analyst Toolbox."
 header:
-  overlay_image: assets/images/posts/toolbox/matt-artz-4mAcustUNPs-unsplash.jpg
+  overlay_image: /assets/images/posts/toolbox/matt-artz-4mAcustUNPs-unsplash.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption:  "Foto von [Matt Artz](https://unsplash.com/de/@mattartz?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) auf [Unsplash](https://unsplash.com/de/fotos/grauer-verstellbarer-schlussel-und-graue-rohrzange-4mAcustUNPs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)"
 ---

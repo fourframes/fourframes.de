@@ -6,7 +6,7 @@ categories: projekte
 tags: phishing ai python
 excerpt: "Die Perplexity API nutzen um eine Einschätzung zum Phishing-Status einer Mail zu erhalten."
 header:
-  overlay_image: https://media.fourframes.de/blog/ai-phish/stephen-phillips-hostreviews-co-uk-F8QgtxUc6-E-unsplash.jpg
+  overlay_image: /assets/images/posts/ai-phish/stephen-phillips-hostreviews-co-uk-F8QgtxUc6-E-unsplash.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption:  "Foto von [Stephen Phillips](https://unsplash.com/@hostreviews?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) auf [Unsplash](https://unsplash.com/photos/mail-icon-F8QgtxUc6-E?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)"
 ---
@@ -50,10 +50,10 @@ Eine praktische Möglichkeit, das Skript regelmäßig auszuführen, ist die Verw
 Um das Tool zu testen, habe ich eine potenziell verdächtige E-Mail an das überwachte Postfach weitergeleitet. Die Analyse ergab folgende Bewertung durch die KI:
 
 **Original-E-Mail:**  
-[![Die ursprüngliche Mail die analysiert wurde](https://media.fourframes.de/blog/ai-phish/mail.png)](https://media.fourframes.de/blog/ai-phish/mail.png)
+[![Die ursprüngliche Mail die analysiert wurde](/assets/images/posts/ai-phish/mail.png)](/assets/images/posts/ai-phish/mail.png)
 
 **Ergebnis der AI:**  
-[![Die Einschätzung zum Phishing-Status von Perplexity](https://media.fourframes.de/blog/ai-phish/response2.png)](https://media.fourframes.de/blog/ai-phish/response2.png)
+[![Die Einschätzung zum Phishing-Status von Perplexity](/assets/images/posts/ai-phish/response2.png)](/assets/images/posts/ai-phish/response2.png)
 
 ## Potenzielle Erweiterungen
 

@@ -6,7 +6,7 @@ categories: lernen
 tags: härtung ressourcen
 excerpt: "Eine Checkliste für die eigene persönliche IT-Sicherheit."
 header:
-  overlay_image: https://media.fourframes.de/blog/checklist/philipp-katzenberger-iIJrUoeRoCQ-unsplash.png
+  overlay_image: /assets/images/posts/checklist/philipp-katzenberger-iIJrUoeRoCQ-unsplash.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption:  "Foto von [Philipp Katzenberger](https://unsplash.com/@fantasyflip?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) auf [Unsplash](https://unsplash.com/photos/closeup-photo-of-turned-on-blue-and-white-laptop-computer-iIJrUoeRoCQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)"
 ---

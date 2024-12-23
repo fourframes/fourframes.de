@@ -55,7 +55,6 @@ Um das Tool zu testen, habe ich eine potenziell verdächtige E-Mail an das über
 **Ergebnis der AI:**  
 [![Die Einschätzung zum Phishing-Status von Perplexity](/assets/images/posts/ai-phish/response2.png)](/assets/images/posts/ai-phish/response2.png)
 
-
 ## Potenzielle Erweiterungen
 
 Da jede API-Anfrage Kosten verursacht, möchte ich den Zugriff in Zukunft über eine **Whitelist** reglementieren. Nur E-Mails von genehmigten Absendern oder Domains sollen verarbeitet werden. Nach der Implementierung könnte das Skript so erweitert werden, dass die Analyseergebnisse direkt an den ursprünglichen Absender der E-Mail zurückgesendet werden, sofern dieser auf der Whitelist steht.

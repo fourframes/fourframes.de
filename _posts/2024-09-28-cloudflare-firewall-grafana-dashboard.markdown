@@ -6,7 +6,7 @@ categories: projekt
 tags: dashboard grafana cloudflare firewall
 excerpt: "Visualisierung von Cloudflare Firewall Events in einem Grafana Dashboard"
 header:
-  overlay_image: /assets/images/posts/cf-dashboard/markus-winkler-IrRbSND5EUc-unsplash.jpg"
+  overlay_image: /assets/images/posts/cf-dashboard/markus-winkler-IrRbSND5EUc-unsplash.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption:  "Foto von [Markus Winkler](https://unsplash.com/@markuswinkler?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) auf [Unsplash](https://unsplash.com/photos/black-and-silver-laptop-computer-IrRbSND5EUc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)"
 ---

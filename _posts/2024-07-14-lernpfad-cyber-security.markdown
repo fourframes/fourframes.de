@@ -28,7 +28,7 @@ Die Inhalte der CompTIA Security+ Zertifizierung werden alle zwei Jahre erneuert
 
 ## Der Übergang von Theorie zur Praxis
 
-Nach Abschluss der Zertifizierung interessierten mich besonders die Aufgaben eines Security Analysts. Deshalb entschloss ich mich, praktische Erfahrungen zu sammeln. Hierfür wählte ich Labs auf [HackTheBox][htb], die sowohl theoretisches Wissen vertiefen als auch praktische Herausforderungen bieten. Parallel dazu plane ich, meine Praxiserfahrung durch eigene Projekte zu erweitern und auch an Capture the Flag (CTF) Wettbewerben teilzunehmen. Diese Wettbewerbe bieten eine spannende Möglichkeit, die eigenen Fähigkeiten in realitätsnahen Szenarien zu testen und kontinuierlich zu verbessern.
+Nach Abschluss der Zertifizierung interessierten mich besonders die Aufgaben eines Security Analysts. Deshalb entschloss ich mich, praktische Erfahrungen zu sammeln. Hierfür wählte ich Labs auf [TryHackMe][thm], die sowohl theoretisches Wissen vertiefen als auch praktische Herausforderungen bieten. Parallel dazu plane ich, meine Praxiserfahrung durch eigene Projekte zu erweitern und auch an Capture the Flag (CTF) Wettbewerben teilzunehmen. Diese Wettbewerbe bieten eine spannende Möglichkeit, die eigenen Fähigkeiten in realitätsnahen Szenarien zu testen und kontinuierlich zu verbessern.
 
 Um stets auf dem neuesten Stand zu bleiben, habe ich außerdem diverse News-Quellen abonniert, die über aktuelle Entwicklungen, neue Bedrohungen und Best Practices in der Cybersecurity informieren. Dieser kontinuierliche Lernprozess ist unerlässlich, um in einem so dynamischen Feld erfolgreich zu sein.
 
@@ -36,4 +36,4 @@ Um stets auf dem neuesten Stand zu bleiben, habe ich außerdem diverse News-Quel
 [jd]: https://www.udemy.com/course/comptia-security-sy0-601-complete-course-exam-retired/
 [gcga]: https://www.getcertifiedgetahead.com/
 [messer]: https://www.youtube.com/c/professormesser
-[htb]: https://www.hackthebox.com/
+[thm]: https://tryhackme.com/

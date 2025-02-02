@@ -5,6 +5,8 @@ date:   2024-07-29
 categories: projekt
 tags: projekt netzwerk segmentierung schwachstelle härtung
 excerpt: "Reduktion von potenziellen Sicherheitsschwachstellen durch Segmentierung im Heimnetz."
+toc: true
+toc_sticky: true
 header:
   overlay_image: /assets/images/posts/segmentierung/jordan-harrison-40XgDxBfYXM-unsplash.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background

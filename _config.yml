@@ -20,7 +20,7 @@ title                    : "FourFrames"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Marc"
-description              : "Cyber-Security Blog"
+description              : "Ein Cyber Security Blog mit Fokus auf die Themen Cyber Security Analysis und Cyber Security Research."
 url                      : "https://www.fourframes.de"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "fourframes/fourframes"
@@ -114,9 +114,9 @@ analytics:
 author:
   name             : "Marc"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Derzeit tauche ich tief in die Welt der Cyber-Security ein und bilde mich kontinuierlich weiter. Begleite mich auf meiner spannenden Reise und entdecke wertvolle Einblicke und Ressourcen."
+  bio              : "Ein Cyber Security Blog mit Fokus auf die Themen Cyber Security Analysis und Cyber Security Research."
   location         : "Leipzig"
-  email            :
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -324,6 +324,8 @@ defaults:
       share: true
       related: true
       show_date: true
+      toc: true
+      toc_sticky: true
   # _pages
   - scope:
       path: ""

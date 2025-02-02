@@ -5,6 +5,8 @@ date:   2024-09-01
 categories: lernen
 tags: härtung ressourcen
 excerpt: "Eine Checkliste für die eigene persönliche IT-Sicherheit."
+toc: true
+toc_sticky: true
 header:
   overlay_image: /assets/images/posts/checklist/philipp-katzenberger-iIJrUoeRoCQ-unsplash.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background

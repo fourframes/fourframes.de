@@ -5,6 +5,8 @@ date:   2024-07-14
 categories: lernen
 tags: video podcast lernen ressourcen
 excerpt: "Meine Erfahrungen und Tipps für einen Einstieg in die Cybersecurity."
+toc: true
+toc_sticky: true
 header:
   overlay_image: /assets/images/posts/lernpfad/inaki-del-olmo-NIJuEQw0RKg-unsplash.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background

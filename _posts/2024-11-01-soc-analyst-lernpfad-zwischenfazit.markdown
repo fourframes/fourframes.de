@@ -5,6 +5,8 @@ date:   2024-11-01
 categories: lernen
 tags: lernen ressourcen
 excerpt: "25% des SOC Analyst Lernpfad sind abgeschlossen - Ein Zwischenfazit"
+toc: true
+toc_sticky: true
 header:
   overlay_image: /assets/images/posts/soc-lernpfad/ales-nesetril-Im7lZjxeLhg-unsplash.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background

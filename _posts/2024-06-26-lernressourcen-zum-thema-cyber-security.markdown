@@ -5,6 +5,8 @@ date:   2024-06-26
 categories: lernen
 tags: video podcast lernen ressourcen
 excerpt: "Meine fünf Top-Empfehlungen für die besten Cyber-Security-Ressourcen."
+toc: true
+toc_sticky: true
 header:
   overlay_image: /assets/images/posts/ressourcen/iewek-gnos-hhUx08PuYpc-unsplash.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background

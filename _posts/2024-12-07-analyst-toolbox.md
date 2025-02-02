@@ -5,6 +5,9 @@ date:   2024-12-07
 categories: lernen
 tags: ressourcen tools framework
 excerpt: "Meine Cybersecurity Analyst Toolbox."
+toc: true
+toc_sticky: true
+classes: wide
 header:
   overlay_image: /assets/images/posts/toolbox/matt-artz-4mAcustUNPs-unsplash.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background

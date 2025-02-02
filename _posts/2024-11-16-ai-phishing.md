@@ -5,6 +5,8 @@ date:   2024-11-16
 categories: projekte
 tags: phishing ai python
 excerpt: "Die Perplexity API nutzen um eine Einschätzung zum Phishing-Status einer Mail zu erhalten."
+toc: true
+toc_sticky: true
 header:
   overlay_image: /assets/images/posts/ai-phish/stephen-phillips-hostreviews-co-uk-F8QgtxUc6-E-unsplash.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background

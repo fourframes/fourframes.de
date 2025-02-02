@@ -5,6 +5,8 @@ date:   2024-10-13
 categories: projekt
 tags: dashboard grafana cloudflare firewall
 excerpt: "Anleitung zur Visualisierung von Cloudflare Firewall Events in einem Grafana Dashboard"
+toc: true
+toc_sticky: true
 header:
   overlay_image: /assets/images/posts/cf-dashboard-tut/choong-deng-xiang--WXQm_NTK0U-unsplash.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background

@@ -146,7 +146,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/fourframes"
-    - label: "Imressum und Datenschutz"
+    - label: "Impressum und Datenschutz"
       #icon: "fab fa-fw fa-twitter-square"
       url: /impressum/
     - label: "GitLab"

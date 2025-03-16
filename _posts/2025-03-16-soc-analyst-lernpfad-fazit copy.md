@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "SOC Analyst Lernpfad auf TryHackMe: Ein Rückblick"
-date:   2025-03-17 
+date:   2025-03-16 
 categories: lernen
 tags: lernen ressourcen
 excerpt: "Mein Fazit des Lernpfades auf der Plattform TryHackMe."

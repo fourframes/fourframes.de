@@ -3,7 +3,7 @@ layout: single
 title: "Weiterentwicklung des KI-gestützten Phishing-Analyse-Tools"
 date:   2025-02-16 
 categories: projekte
-tags: ai phishing python
+tags: ai phishing python email
 excerpt: "Das Python Tool hat einige neuen Features und Verbesserungen erhalten."
 toc: true
 toc_sticky: true

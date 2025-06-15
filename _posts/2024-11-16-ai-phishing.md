@@ -3,7 +3,7 @@ layout: single
 title: "Projektbericht: AI-gestützte Phishing-Analyse mit Perplexity"
 date:   2024-11-16 
 categories: projekte
-tags: phishing ai python
+tags: phishing ai python email
 excerpt: "Die Perplexity API nutzen um eine Einschätzung zum Phishing-Status einer Mail zu erhalten."
 toc: true
 toc_sticky: true

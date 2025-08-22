@@ -161,6 +161,12 @@ Sie können Ihren Browser so einstellen, dass Sie über das Setzen von Cookies i
 
 Welche Cookies und Dienste auf dieser Website eingesetzt werden, können Sie dieser Datenschutzerklärung entnehmen.
 
+Folgender technisch notwendiger Cookie wird von unserer Website gesetzt, um die Funktionsfähigkeit der Seite und den reibungslosen Ablauf der Nutzung zu gewährleisten:
+
+- cf_clearance
+
+Dieser Cookie dient ausschließlich technischen Zwecken und wird nicht für Werbezwecke oder zur Erstellung von Nutzerprofilen verwendet.
+
 ### Server-Log-Dateien
 
 Der Provider der Seiten erhebt und speichert automatisch Informationen in so genannten Server-Log-Dateien, die Ihr Browser automatisch an uns übermittelt. Dies sind:

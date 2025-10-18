@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Netzwerksegmentierung mit OpenWRT und VLANs – Erfahrungsbericht"
-date:   2025-10-15 
+date:   2025-10-18
 categories: projekt
 tags: projekt netzwerk segmentierung
 excerpt: "Nutzung von VLANs zur weiteren Segmentierung des Heimnetzes."
